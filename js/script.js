@@ -29,7 +29,7 @@ addItem(bananaPrice, 5)
 addItem(applePrice, 2)
 addItem(breadPrice, 1)
 addItem(eggsPrice, 1)
-addItem(discountedMilkPrice, 1)
+addItem(discountMilkPrice, 1)
 removeItem(bananaPrice, 2)
 
 let Total = calculateTotal()
